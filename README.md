@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cesar-de-maurizio"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:cesardemaurizioit@gmail.com"><img src="assets/btn-gmail.svg" height="44" alt="Gmail" /></a>
+  <a href="mailto:cesardemaurizio1@gmail.com"><img src="assets/btn-gmail.svg" height="44" alt="Gmail" /></a>
 </p>
 
 <br/>
