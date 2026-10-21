@@ -109,19 +109,28 @@
   <img src="assets/icons/vscode.svg" width="56" title="VS Code" alt="VS Code" />
 </p>
 
-## 🚀 Featured project
+## 🚀 Latest project
 
+<!-- LATEST_REPO:START -->
 <table align="center">
   <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/dimaurizzio/memorIA">🧠 memorIA</a></h3>
-      <p>AI-powered documentation for your team.</p>
-      <img src="assets/icons/python.svg" width="30" title="Python" />
-      <img src="assets/icons/langchain.svg" width="30" title="RAG" />
-      <img src="assets/icons/gemini.svg" width="30" title="Gemini" />
+    <td align="center" width="720">
+      <a href="https://github.com/dimaurizzio/open-bi-artifacts"><img src="https://opengraph.githubassets.com/be9e612d0a4088eda7be4c396a5f242e706f813758c2527ec77bfb5fb37e0e79/dimaurizzio/open-bi-artifacts" width="680" alt="open-bi-artifacts" /></a>
+      <h3><a href="https://github.com/dimaurizzio/open-bi-artifacts">open-bi-artifacts</a></h3>
+      <p>
+        <img src="assets/icons/ts.svg" width="36" title="ts" alt="ts" />
+        <img src="assets/icons/bigquery.svg" width="36" title="bigquery" alt="bigquery" />
+        <img src="assets/icons/fastapi.svg" width="36" title="fastapi" alt="fastapi" />
+        <img src="assets/icons/adk.svg" width="36" title="adk" alt="adk" />
+        <img src="assets/icons/mcp.svg" width="36" title="mcp" alt="mcp" />
+        <img src="assets/icons/react.svg" width="36" title="react" alt="react" />
+      </p>
+      <p><code>ai-agent</code> <code>bigquery</code> <code>business-intelligence</code> <code>d3</code> <code>dashboards</code> <code>data-analysis</code> <code>fastapi</code> <code>google-adk</code> <code>llm</code> <code>mcp</code> <code>model-context-protocol</code> <code>react</code> <code>self-hosted</code> <code>text-to-sql</code></p>
+      <sub>💻 TypeScript &nbsp;·&nbsp; 🗓️ 2026-10-21</sub>
     </td>
   </tr>
 </table>
+<!-- LATEST_REPO:END -->
 
 <p align="center">
   <sub><i>Data tells the story. AI helps you hear it faster.</i> ✨</sub>
