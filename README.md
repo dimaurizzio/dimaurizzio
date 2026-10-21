@@ -115,7 +115,7 @@
 <table align="center">
   <tr>
     <td align="center" width="720">
-      <a href="https://github.com/dimaurizzio/open-bi-artifacts"><img src="https://opengraph.githubassets.com/be9e612d0a4088eda7be4c396a5f242e706f813758c2527ec77bfb5fb37e0e79/dimaurizzio/open-bi-artifacts" width="680" alt="open-bi-artifacts" /></a>
+      <a href="https://github.com/dimaurizzio/open-bi-artifacts"><img src="https://opengraph.githubassets.com/16f8c81e63ec65380462f6487459817bb45db126f68eca5717bff2304eabe0ff/dimaurizzio/open-bi-artifacts" width="680" alt="open-bi-artifacts" /></a>
       <h3><a href="https://github.com/dimaurizzio/open-bi-artifacts">open-bi-artifacts</a></h3>
       <p>
         <img src="assets/icons/ts.svg" width="36" title="ts" alt="ts" />
