@@ -99,6 +99,12 @@ def main():
         print("No public repository found; README left as is.")
         return
     text = README.read_text(encoding="utf-8")
+    # GitHub signs the default preview image with a new hash on every request; keep the
+    # one already in the README while it still points at the same repo, so runs that
+    # change nothing else do not commit.
+    old = re.search(r'src="(https://opengraph\.githubassets\.com/[^/"]+/' + re.escape(f'{OWNER}/{repo["name"]}') + r')"', text)
+    if old and not repo["usesCustomOpenGraphImage"]:
+        repo["openGraphImageUrl"] = old.group(1)
     block = f"{START}\n{render(repo)}\n{END}"
     new = re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: block, text, flags=re.S)
     if new != text:
