@@ -126,7 +126,7 @@
         <img src="assets/icons/react.svg" width="36" title="react" alt="react" />
       </p>
       <p><code>ai-agent</code> <code>bigquery</code> <code>business-intelligence</code> <code>d3</code> <code>dashboards</code> <code>data-analysis</code> <code>fastapi</code> <code>google-adk</code> <code>llm</code> <code>mcp</code> <code>model-context-protocol</code> <code>react</code> <code>self-hosted</code> <code>text-to-sql</code></p>
-      <sub>💻 TypeScript &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🗓️ 2026-10-21</sub>
+      <sub>💻 TypeScript &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; 🍴 1 &nbsp;·&nbsp; 🗓️ 2026-10-21</sub>
     </td>
   </tr>
 </table>
